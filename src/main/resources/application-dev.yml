@@ -4,7 +4,7 @@ site:
   datasource_username: root
   datasource_password: root!Q2w
 
-# 想看mybatis执行的sql的时候，去掉下面这段的注释
+# 想看mybatis执行的sql的时候，去掉下面这段的注释!
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
